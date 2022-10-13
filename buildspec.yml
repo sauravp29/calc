@@ -4,6 +4,4 @@ phases:
   install:
     commands:
       - sudo apt-get update
-  build:
-    commands:
-      - sudo systemctl status codedeploy-agent
+ 
